@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuchiTravels</title>
+    <link rel="Stylesheet" href="styles.css">
+    
+</head>
+
+<body>
+    <div class="Container">
+        <div class="header">
+            <div class="icon_area">
+                <img src="arp1.jpg" class="icon_img">
+                <span class="icon_name">SUCHITRAVELS</span>
+
+            </div>
+            <div class="menu_area">
+                <ul>
+                    <li>Home</li>
+                    <li>Services</li>
+                    <li>About us</li>
+                    <li>Gallery</li>
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="content">
+            <div class="main_content">
+                <h2 class="main_heading">Travel with no Limits</h2>
+                <p>Jobs fill your pocket, but adventures fill your soul<br>
+                Travel far, travel wide, and travel often.</p>
+
+            </div>
+            <h1 class="services_heading">Our Services</h1>
+            <div class="services">
+
+                <div class="card1">
+                    <img src="card1.jpeg" class="card_img1">
+                    <p>TRAVEL WITH ALL THE FREENESS</p>
+                </div>
+
+                <div class="card2">
+                    <img src="card2.jpeg" class="card_img2">
+                    <p>WE WILL GIVE 24/7 SUPPORT, ALWAYS WITH YOU</p>
+                </div>
+
+                <div class="card3">
+                    <img src="card3.jpeg" class="card_img3">
+                    <p>TRAVEL WITH AFFORDABLE PRICES, BUGDET FRIENDLY</p>
+                </div>
+
+            </div>
+
+            <div class="about_us">
+                <img src="aboutus.jpeg" class="side_img">
+                <div class="side_text">
+
+                    <h1>ABOUT US</h1>
+                    <p>SuchiTravels, the world's largest travel platform, helps 1 million travelers
+                    each year make every trip their best trip. Travelers across the globe use the
+                    SuchiTravels site and app to browse more than 47 million reviews and opinions of
+                    8 million accommodations, restaurants, experiences, airlines and cruises.Whether 
+                    planning or on a trip, travelers turn to SuchiTravels to compare low prices on hotels, 
+                    flights and cruises, book populartours and attractions, as well as reserve tables at 
+                    great restaurants.</p>
+                </div>
+
+            </div>
+
+            <div class="Gallary">
+                <h2 class="gallery_text">OUR GALLERY</h2>
+                <img src="travel5.jpg" class="g1">
+                <img src="travel2.jpg" class="g2">
+                <img src="travel3.jpg" class="g3">
+                <img src="travel4.jpg" class="g4">
+                <img src="travel1.jpg" class="g5">
+                <img src="travel6.jpg" class="g6">
+
+            </div>
+        </div>
+
+        <div class="footer">
+            <div class="Address">
+                1-47 Chintal<br>
+                Hyderabad<br>
+                Talangana,India
+            </div>
+            <div class="Contact">
+                <p>suchitravels@gmail.com</p>
+                
+                <p>+916302161872</p>
+
+                <p>@2025</p>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
